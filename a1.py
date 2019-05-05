@@ -1,1 +1,1 @@
-print('gk')
+print('gbk')
